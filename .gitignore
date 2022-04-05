@@ -130,3 +130,7 @@ dmypy.json
 
 # MacOSX junk
 .DS*
+
+# R junk
+.Rhistory
+.RData
