@@ -1,4 +1,4 @@
-# Google Earth Engine and clould compute mutliscale remote sensing demos 
+# Google Earth Engine and clould compute mutli-scale remote sensing demos: Combining Next Generation Ecosystem Experiment in the Arctic (NGEE-Arctic) and other remote sensing data in the cloud
 
 ### Focus
 A series of demo workflows illustrating how to leverage cloud storage buckets (e.g. google S3), Jupyterlab, Google Earth Engine, and cloud compute (Google Collab or Binder) to integrate novel UAS and other remote sensing data for multiscale analyses in the Arctic
